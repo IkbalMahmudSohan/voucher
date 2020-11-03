@@ -1,0 +1,182 @@
+body{
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background: linear-gradient(to right bottom, black 50%, orange 50%);
+}
+.hed {
+    text-align: center;
+    color: white;
+}
+.top{
+    width: 80%;
+    height: 750px;
+    margin: auto;
+    margin-top: 0;
+    padding: 20px 20px;
+    /*background-color: azure;*/
+    overflow: hidden;
+    background: url('../image/background.jpg');
+    background-repeat: no-repeat;
+    color: aliceblue;
+    
+}
+.first{
+    width: 33.33%;
+    float: left; 
+    
+}
+.arrangefirst{
+    width: 80%;
+    margin: auto;
+    margin-top: 150px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: 1px solid orange;
+    padding: 2px;
+    text-align: center;
+    background-color: black;
+    box-sizing: border-box;
+    
+}
+.second{
+    width: 33.33%;
+    height: auto;
+    float: left;   
+}
+.arrangesecond{
+    width: 80%;
+    margin: auto;
+    margin-top: 200px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 10PX;
+    border: 1px solid orange;
+    padding: 2px;
+    text-align: center;
+    background-color: black;
+    box-sizing: border-box;
+    
+}
+
+.icon{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.third{
+    width: 33.33%;
+    float: left;
+}
+.arrangethird{
+    width: 80%;
+    margin: auto;
+    margin-top: 150px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: 1px solid orange;
+    padding: 2px;
+    text-align: center;
+    background-color: black;
+    box-sizing: border-box;
+}
+.logo{
+    width: 70%;
+    margin: auto;
+}
+.arrangethird h2{
+    color: orange;
+}
+
+
+
+.bottom{
+    width: 80%;
+    height: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 20px;
+    /*background-color: azure;*/
+    overflow: hidden;
+    background: url('../image/background.jpg');
+    background-repeat: no-repeat;
+    color: aliceblue;
+    
+}
+.bfirst{
+    width: 33.33%;
+    float: left;
+}
+.menu_1st, .menu_2nd, .menu_3rd, .menu_4th{
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 2px;
+    text-align: center;
+    background-color: black;
+    box-sizing: border-box;
+    overflow: hidden;
+    
+    
+}
+
+
+.bsecond{
+    width: 33.33%;
+    float: left;
+}
+.discounts_1st,.discounts_2nd,.discounts_3rd,.discounts_4th{
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    
+    padding: 2px;
+    text-align: center;
+    background-color: black;
+    box-sizing: border-box;
+    overflow: hidden;
+    
+    
+}
+.bthird{
+    width: 33.33%;
+    float: left;
+}
+.offers_1st,.offers_2nd,.offers_3rd,.offers_4th{
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 2px;
+    text-align: center;
+    background-color: black;
+    box-sizing: border-box;
+    overflow: hidden;
+    
+}
+.image{
+    width: 30%;
+    float: left;
+}
+.text{
+    width: 70%;
+    float: left;
+}
+.arrangebsecond del,.arrangebthird del{
+    color: grey;
+}
+.bfirst h2, .bsecond h2, .bthird h2{
+    margin-left: 100px;
+    
+}
+.bottomhead{
+    background: url('../image/shadow2.png');
+    background-repeat: no-repeat;
+    margin-left: 60px;
+}
+.bottom h4{
+    color: orange;}
